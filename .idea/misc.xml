@@ -7,11 +7,18 @@
       <list>
         <option value="$PROJECT_DIR$/DataStructures/pom.xml" />
         <option value="$PROJECT_DIR$/Collections/pom.xml" />
+        <option value="$PROJECT_DIR$/MultiThreading/pom.xml" />
+        <option value="$PROJECT_DIR$/Exception Handling/pom.xml" />
+        <option value="$PROJECT_DIR$/Streams and Lambda Expression/pom.xml" />
+        <option value="$PROJECT_DIR$/Design Patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/Concurrency/pom.xml" />
+        <option value="$PROJECT_DIR$/Problem Solving/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Collections/pom.xml" />
+        <option value="$PROJECT_DIR$/DataStructures/MultiThreading/pom.xml" />
       </set>
     </option>
   </component>

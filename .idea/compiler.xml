@@ -6,7 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DataStructures" />
+        <module name="ExceptionHandling" />
+        <module name="MultiThreading" />
+        <module name="DesignPatterns" />
+        <module name="ProblemSolving" />
+        <module name="StreamsandLambdaExpression" />
+        <module name="Concurrency" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

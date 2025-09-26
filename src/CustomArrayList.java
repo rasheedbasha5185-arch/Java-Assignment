@@ -5,6 +5,7 @@ import java.util.Arrays;
  * Supports dynamic resizing, adding/removing elements, and basic utility methods.
  * Now includes addAll() methods as well.
  */
+
 public class CustomArrayList<T> {
 
     private T[] arr;      // Internal storage
